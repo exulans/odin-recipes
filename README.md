@@ -1,1 +1,2 @@
 # odin-recipes
+Intended to be a first project to demonstrate knowledge of HTML basics, and ability to use Git commands. The part that actually is new for me is the latter - properly using Git and pushing to Github.
