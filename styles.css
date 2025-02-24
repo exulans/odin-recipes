@@ -1,0 +1,26 @@
+* {
+    text-align: left;
+}
+
+body {
+    font-family: Georgia, serif;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+ol li, ul li, .recipe {
+    text-align: justify;
+    margin: auto;
+}
+
+ul li {
+    color: rgb(102, 102, 102);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
