@@ -10,7 +10,7 @@ h1 {
     font-weight: bolder;
 }
 
-ol li, ul li, .recipe {
+ol li, ul li, .description {
     text-align: justify;
     margin: auto;
 }
